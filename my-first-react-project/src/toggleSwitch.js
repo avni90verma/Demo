@@ -11,6 +11,7 @@ function ToggleSwitch() {
   return (
     <div className="app" style={{textAlign: "center"}}>
       <h4>Toggle switch in React</h4>
+      <h1>AVNI</h1>
       <ReactSwitch
         checked={checked}
         onChange={handleChange}
